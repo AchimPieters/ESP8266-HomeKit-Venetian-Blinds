@@ -6,6 +6,26 @@
 [![GitHub license](https://img.shields.io/github/v/release/achimpieters/ESP8266-HomeKit-Venetian-Blinds)](https://img.shields.io/github/v/release/achimpieters/ESP8266-HomeKit-Venetian-Blinds)
 [![Donate](https://img.shields.io/badge/donate-PayPal-blue.svg)](https://paypal.me/AJFPieters)
 
+
+## HomeKit Venetian Blinds
+
+The best HomeKit smart blinds offer the ultimate in smart convenience with Siri and Home app controls. With a shout or a tap, these HomeKit accessories can give you privacy on-demand, plus through automation, they can open or close right at sunrise or sunset. Whether you need a set of new blinds or want to add HomeKit to an existing set, the best HomeKit blinds will add some smart magic to your home.
+
+
+## Which way should your tilt your venetian blinds?
+
+At this time of the year, when the weather is starting to get warm, which way you tilt your blinds can have a massive impact on how comfortable your room is to sit in. For example:
+
+#### Why you should tilt your blinds upwards:
+
+This directs sunlight and heat towards the ceiling. Useful during the summer when you want to keep your room cool.
+People outside cannot see into your house.
+
+#### Why you should tilt your blinds downwards:
+
+This directs the sunlight and heat towards the floor. Useful during the winter when you want to keep the room warm.
+The blinds look aesthetically better. But people can see in more easily.
+
 ###### <sup><hr></sup>
 
 
